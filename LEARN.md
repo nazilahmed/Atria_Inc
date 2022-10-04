@@ -1,6 +1,6 @@
-## Gym Fitness Website
+# Gym Fitness Website
 
-Fitness website.
+Fitness website to be linked with a fitness app. Started as a school project.
 
 ## Technologies Used:
 
@@ -8,7 +8,7 @@ Fitness website.
 * CSS3
 * JavaScript
 
-### Silent Features :
+## `Silent Features`:
 
 * Responsive Design.
 * Portfolio Template.
@@ -17,10 +17,4 @@ Fitness website.
 
 
 
-
-
-### Project Live Url:
-
-
-
-### WebApp ScreenShoot
+## `Project Live Url`:
